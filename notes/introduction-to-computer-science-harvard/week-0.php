@@ -206,7 +206,7 @@
 <hr />
 <dl>
   <dt>Bit</dt>
-  <dd>A <b>bit</b> is a value of either a 1 of 0 (on or off)</dd>
+  <dd>A <b>bit</b> is a value of either a 1 or 0 (on or off)</dd>
   <dt>Nibble</dt>
   <dd>A <b>Nibble</b> is 4 bits</dd>
   <dt>Byte</dt>
