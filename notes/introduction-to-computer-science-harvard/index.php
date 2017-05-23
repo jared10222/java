@@ -13,7 +13,7 @@ if(isset($_GET['section']) && !empty($_GET['section'])){
 ?>
 
 <ul class="list-group">
-  <li class="list-group-item"><a href="<?php echo $link; ?>intro">Introduction</a></li>
+  <li class="list-group-item"><a href="<?php echo $link; ?>week-0">Week 0</a></li>
 </ul>
 
 <?php
