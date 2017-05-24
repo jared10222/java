@@ -251,3 +251,4 @@
 
 <hr />
 <h3>Introducing Scratch</h3>
+<p><a href="https://scratch.mit.edu/" target="_blank">Scratch</a></p>
