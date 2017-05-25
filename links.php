@@ -15,7 +15,7 @@ require_once("includes/header.php");
     <li class="list-group-item"><a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/" target="_blank">Adding an existing project to GitHub using the command line</a></li>
     <li class="list-group-item"><a href="https://scratch.mit.edu/" target="_blank">Scratch</a></li>
     <li class="list-group-item"><a href="https://id.cs50.net/authorize?state=foo&response_type=code&redirect_uri=https%3A%2F%2Fcs50.io%2Fauth%2Fcs50_callback&scope=openid%20profile%20email&client_id=prod" target="_blank">CS50 IDE</a></li>
-    <li class="list-group-item"><a href="" target="_blank"></a></li>
+    <li class="list-group-item"><a href="https://cs50.me/submissions/" target="_blank">CS50.me (Submissions and grades)</a></li>
     <li class="list-group-item"><a href="" target="_blank"></a></li>
     <li class="list-group-item"><a href="" target="_blank"></a></li>
   </ul>
